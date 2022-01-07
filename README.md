@@ -1,2 +1,2 @@
 # README
-Interview Case Study
+Interview case study.
